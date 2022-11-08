@@ -443,7 +443,7 @@ body {
 
 /* footer */
 
-.footer {
+.page-footer {
   background-color: var(--background-color1);
   padding-top: 60px;
   padding-bottom: 60px;
@@ -583,7 +583,7 @@ body {
 .footer__form-input::placeholder {
   color: rgba(255, 255, 255, 0.6);
 }
-.footer__modal__icon {
+.footer__modal-icon {
   margin-left: 10px;
 }
 
@@ -635,9 +635,6 @@ body {
 .button__type:focus {
   color: var(--text-color-1);
   background-color: var(--accent-color);
-}
-.everyone {
-  padding: 6px 25px;
 }
 /* section-button */
 .button__list {

@@ -1,0 +1,26 @@
+.header__logo {
+  color: var(--text-color-2);
+  font-family: Raleway, sans-serif;
+  font-size: 26px;
+  line-height: 1.2;
+  text-decoration: none;
+  margin-right: 93px;
+}
+.header__logo-accent {
+  color: var(--accent-color);
+  font-family: Raleway, sans-serif;
+}
+
+.footer__logo {
+  color: var(--text-color-1);
+  font-family: Raleway, sans-serif;
+  font-size: 26px;
+  line-height: 1.2;
+  text-decoration: none;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+.footer__logo-accent {
+  color: var(--accent-color);
+  font-family: Raleway, sans-serif;
+}

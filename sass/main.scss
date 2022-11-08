@@ -1,2 +1,14 @@
 @import "./utils/variables";
-@import "./base/normalize";
+@import "./utils/base";
+@import "./utils/placeholders";
+@import "./sections/page-header";
+@import "./sections/hero";
+@import "./sections/benefits";
+@import "./sections/work";
+@import "./sections/team";
+@import "./sections/clients";
+@import "./sections/page-footer";
+@import "./sections/portfolio";
+@import "./components/logo";
+@import "./components/buttons";
+@import "./components/modal";
